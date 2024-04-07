@@ -52,6 +52,9 @@ Rust Projects:
   - [telegram bot to get personal salary with crawler vebko.ir website](https://github.com/taherfattahi/vebko-bot-crawler-salary)
   - [port sniffer tool with Iced (A cross-platform GUI library for Rust)](https://github.com/taherfattahi/port-sniffer-gui)
 
+Dart Scripts:
+  - [Matrix register new user into synapse microservice](https://github.com/taherfattahi/matrix-register-new-user)
+
 Web Development:
   - [Vebko Chat Service](https://github.com/taherfattahi/Vebko-Chat-Service)
   - [Virtual 3D Model Conference Room](https://github.com/taherfattahi/Virtual-3D-Model-Conference-Room)
