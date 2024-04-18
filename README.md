@@ -50,8 +50,8 @@ OpenCV Projects:
   - [Live video streaming over network with OpenCV and ImageZMQ](https://github.com/taherfattahi/video-streaming-opencv-ImageZMQ)
 
 Rust Projects:
-  - [telegram bot to get personal salary with crawler vebko.ir website](https://github.com/taherfattahi/vebko-bot-crawler-salary)
-  - [port sniffer tool with Iced (A cross-platform GUI library for Rust)](https://github.com/taherfattahi/port-sniffer-gui)
+  - [Telegram bot to get personal salary with crawler vebko.ir website](https://github.com/taherfattahi/vebko-bot-crawler-salary)
+  - [Port sniffer tool with Iced (A cross-platform GUI library for Rust)](https://github.com/taherfattahi/port-sniffer-gui)
 
 Dart Scripts:
   - [Matrix register new user into synapse microservice](https://github.com/taherfattahi/matrix-register-new-user)
