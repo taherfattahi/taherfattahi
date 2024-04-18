@@ -21,8 +21,9 @@ ML and DL Projects:
 LLM Projects:
   - [Two approaches to generating optimized embeddings in the Retrieval-Augmented Generation (RAG) Pattern](https://github.com/taherfattahi/embedding-optimizer)
   - [Enhancing Recommendation Systems with Large Language Models (RAG - LangChain - OpenAI)](https://github.com/taherfattahi/recommendation-systems-by-llms)
-  - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI.](https://github.com/Anil-matcha/ChatPDF)
-  - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities.](https://github.com/bhaskatripathi/pdfGPT)
+  - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
+  - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities](https://github.com/bhaskatripathi/pdfGPT)
+  - [MailTrap Agent with LangChain](https://github.com/taherfattahi/mailtrap-agent)
 
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
