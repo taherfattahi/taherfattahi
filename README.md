@@ -24,6 +24,7 @@ LLM Projects:
   - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
   - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities](https://github.com/bhaskatripathi/pdfGPT)
   - [MailTrap Agent with LangChain](https://github.com/taherfattahi/mailtrap-agent)
+  - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
 
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
