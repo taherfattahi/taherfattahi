@@ -64,7 +64,7 @@ Web Development:
 
 ----
 
-# My contents
+### My contents
 [![](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/9681220/taher-fattahi)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/taherfattahi)
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@taherfattahi11)
@@ -72,7 +72,7 @@ Web Development:
 
 ---
 
-# Contact Me
+### Contact Me
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:taherfattahi11@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taher-fattahi/)
 
