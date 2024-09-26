@@ -33,7 +33,7 @@ Bash - Hardware scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
   - [Bash script to enable and disable Hi-Link wifi with curl](https://github.com/taherfattahi/Hi-Link-wifi-enable-disable-bash)
   - [Winpcap Installer](https://github.com/taherfattahi/winpcap-installer)
-  - [Iec61850 - goose publisher and subscriber function for send and receive data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
+  - [Iec61850 - goose publisher and subscriber function to send and receiving data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
 
 WebRTC Projects:
   - [Web-based screen sharing service for Vebko This service uses WebRTC to share screens and sound.](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
@@ -43,7 +43,7 @@ Nodejs Projects:
   - [Wallet Example. Using Node.js, Express and MongoDB](https://github.com/taherfattahi/sample-wallet)
   
 C# - .NET Projects:
-  - [Stand-alone application for use blazor inside winforms with .NET5.0 and webview2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
+  - [Stand-alone application to use blazor inside winforms with .NET5.0 and webview2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
   - [GRPC service in .net framework](https://github.com/taherfattahi/GrpcNetframework)
 
 OpenCV Projects:
