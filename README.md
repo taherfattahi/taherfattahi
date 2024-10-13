@@ -20,6 +20,7 @@ ML and DL Projects:
 
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
+  - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
   - [Two approaches to generating optimized embeddings in the Retrieval-Augmented Generation (RAG) Pattern](https://github.com/taherfattahi/embedding-optimizer)
   - [Enhancing Recommendation Systems with Large Language Models (RAG - LangChain - OpenAI)](https://github.com/taherfattahi/recommendation-systems-by-llms)
   - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
