@@ -13,7 +13,7 @@ I love researching; Always looking for good opportunities to learn more.
 ### My open-source projects
 
 Reinforcement Learning (RL):
-  - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task in a custom environment](https://github.com/taherfattahi/ppo-rocket-landing)
+  - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
 ML and DL Projects:
   - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
   - [DNN AMR relay differential curve](https://github.com/taherfattahi/dnn-amr-reley-differential-curve)
