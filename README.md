@@ -69,10 +69,9 @@ Web Development:
 ----
 
 ### My contents
-[![](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/9681220/taher-fattahi)
-[![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/taherfattahi)
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@taherfattahi11)
-
+[![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/taherfattahi)
+[![](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/9681220/taher-fattahi)
 
 ---
 
