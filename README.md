@@ -40,8 +40,8 @@ Bash - Hardware scripts:
   - [Iec61850 - goose publisher and subscriber function to send and receiving data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
 
 WebRTC Projects:
-  - [Web-based screen sharing service for Vebko This service uses WebRTC to share screens and sound.](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
-  - [WebRTC peer-to-peer data, video, and audio calls.](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
+  - [Web-based screen sharing service for Vebko This service uses WebRTC to share screens and sound](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
+  - [WebRTC peer-to-peer data, video, and audio calls](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
 
 Nodejs Projects: 
   - [Wallet Example. Using Node.js, Express and MongoDB](https://github.com/taherfattahi/sample-wallet)
