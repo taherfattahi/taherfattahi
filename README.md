@@ -15,12 +15,6 @@ I love researching; Always looking for good opportunities to learn more.
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
 
-ML and DL Projects:
-  - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
-  - [DNN AMR relay differential curve](https://github.com/taherfattahi/dnn-amr-reley-differential-curve)
-  - [CNN model to detect Brain Tumors in patient's Brain MRI](https://github.com/taherfattahi/cnn-brain-tumor-detection)
-  - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
-
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
   - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
@@ -29,6 +23,12 @@ LLM Projects:
   - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
   - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities](https://github.com/bhaskatripathi/pdfGPT)
   - [MailTrap Agent with LangChain](https://github.com/taherfattahi/mailtrap-agent)
+    
+ML and DL Projects:
+  - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
+  - [DNN AMR relay differential curve](https://github.com/taherfattahi/dnn-amr-reley-differential-curve)
+  - [CNN model to detect Brain Tumors in patient's Brain MRI](https://github.com/taherfattahi/cnn-brain-tumor-detection)
+  - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
 
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
