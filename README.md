@@ -44,7 +44,7 @@ WebRTC Projects:
   - [WebRTC peer-to-peer data, video, and audio calls](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
 
 Nodejs Projects: 
-  - [Wallet Example. Using Node.js, Express and MongoDB](https://github.com/taherfattahi/sample-wallet)
+  - [Wallet Example, Using Node.js, Express and MongoDB](https://github.com/taherfattahi/sample-wallet)
   
 C# - .NET Projects:
   - [Stand-alone application to use blazor inside winforms with .NET5.0 and webview2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
