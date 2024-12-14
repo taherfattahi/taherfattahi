@@ -13,7 +13,7 @@ I love researching; Always looking for good opportunities to learn more.
 ### My open-source projects
 
 Robotic Projects: 
-  - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
+  - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
 
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
