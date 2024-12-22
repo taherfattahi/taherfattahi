@@ -13,6 +13,7 @@ I love researching; Always looking for good opportunities to learn more.
 ### My open-source projects
 
 Robotic Projects: 
+  - [Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2](https://github.com/taherfattahi/isaac-sim-mobile-robot-rtab-map)
   - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
 
 Reinforcement Learning (RL):
