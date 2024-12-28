@@ -15,13 +15,13 @@ I love researching; Always looking for good opportunities to learn more.
 Robotics Projects: 
   - [Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2](https://github.com/taherfattahi/isaac-sim-mobile-robot-rtab-map)
   - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
-
+  - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
+    
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
 
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
-  - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
   - [Two approaches to generating optimized embeddings in the Retrieval-Augmented Generation (RAG) Pattern](https://github.com/taherfattahi/embedding-optimizer)
   - [Enhancing Recommendation Systems with Large Language Models (RAG - LangChain - OpenAI)](https://github.com/taherfattahi/recommendation-systems-by-llms)
   - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
