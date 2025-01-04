@@ -15,7 +15,7 @@ I love researching; Always looking for good opportunities to learn more.
 Robotics Projects: 
   - [Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2](https://github.com/taherfattahi/isaac-sim-mobile-robot-rtab-map)
   - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
-  - [NVIDIA Isaac Sim with MOLA to enable advanced 3D LiDAR odometry and mapping](https://github.com/taherfattahi/isaac-sim-3d-lidar-odometry-mapping)
+  - [Nvidia Isaac Sim with MOLA to enable advanced 3D LiDAR odometry and mapping](https://github.com/taherfattahi/isaac-sim-3d-lidar-odometry-mapping)
   - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
   - [Model Predictive Path Integral (MPPI) control for navigating a simple 2D car model around multiple circular obstacles](https://github.com/taherfattahi/mppi-2d-car-navigation-with-obstacles)
     
