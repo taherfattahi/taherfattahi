@@ -39,7 +39,7 @@ ML and DL Projects:
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
 
-Bash - Hardware scripts:
+Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
   - [Bash script to enable and disable Hi-Link wifi with curl](https://github.com/taherfattahi/Hi-Link-wifi-enable-disable-bash)
   - [Winpcap Installer](https://github.com/taherfattahi/winpcap-installer)
