@@ -29,6 +29,7 @@ LLM Projects:
   - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
   - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities](https://github.com/bhaskatripathi/pdfGPT)
   - [MailTrap Agent with LangChain](https://github.com/taherfattahi/mailtrap-agent)
+  - [LangGraph Conversational AI assistant for Good Health Clinic](https://github.com/taherfattahi/langgraph-medical-ai-assistant)
     
 ML and DL Projects:
   - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
