@@ -18,6 +18,7 @@ Robotics Projects:
   - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
   - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
   - [Model Predictive Path Integral (MPPI) control for navigating a simple 2D car model around multiple circular obstacles](https://github.com/taherfattahi/mppi-2d-car-navigation-with-obstacles)
+  - [CARLA Autonomous Driving Simulation with RRT-Based Path Planning and PID Control](https://github.com/taherfattahi/carla-motion-planning-rrt-based)
     
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
