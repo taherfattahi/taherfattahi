@@ -1,8 +1,8 @@
 ### Taher Fattahi
 ----
 
-I'm a dynamic person who is able to work with various technologies. I truly believe that these are essential tools for problem-solving, and that we should always choose the most suitable tool for each specific issue.
-I love researching; Always looking for good opportunities to learn more.
+I'm a dynamic person who is able to work with various technologies. I truly believe that these are essential tools for problem-solving, and that we should always choose the most suitable tool for each specific issue.<br/>
+I love researching; <br/>Always looking for good opportunities to learn more.
 
 🎓 Software Engineer 
 🧠 AI Enthusiast 
