@@ -90,5 +90,5 @@ Web Development:
 
 [![Taher Fattahi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9681220&layout=compact&theme=dark)](https://stackoverflow.com/users/9681220/taher-fattahi)
 
-![Taher Fattahi's github stats](https://github-readme-stats.vercel.app/api?username=taherfattahi&show_icons=true&theme=chartreuse-dark&show_icons=true&count_private=true)
+![Taher Fattahi's github stats](https://github-readme-stats.vercel.app/api?username=taherfattahi)
 
