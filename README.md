@@ -88,7 +88,7 @@ Web Development:
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:taherfattahi11@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taher-fattahi/)
 
-[![Taher Fattahi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9681220&layout=compact&theme=dark)](https://stackoverflow.com/users/9681220/taher-fattahi)
+[![Taher Fattahi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9681220&layout=compact&theme=dark)](https://stackoverflow.com/users/9681220/taher-fattahi-tabalvandan)
 
 ![Taher Fattahi's github stats](https://github-readme-stats.vercel.app/api?username=taherfattahi)
 
