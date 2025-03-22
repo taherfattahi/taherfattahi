@@ -40,6 +40,7 @@ ML and DL Projects:
   - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
 
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
+  - [An augmented reality system that allows users to place and manipulate virtual 3D cubes using a single camera and hand gestures](https://github.com/taherfattahi/orb-slam3-ar-cube-manipulator)
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
   - [Remote support powered by augmented reality and live video communication](https://github.com/taherfattahi/VebkoArRemoteAssistance)
 
