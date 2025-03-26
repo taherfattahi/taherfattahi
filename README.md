@@ -23,6 +23,7 @@ Robotics Projects:
     
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
+  - [TD3 algorithm for autonomous robot navigation in simulated environments with obstacle avoidance](https://huggingface.co/spaces/TaherFattahi/TD3-robot-nav-irsim)
 
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
