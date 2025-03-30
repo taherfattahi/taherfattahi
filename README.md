@@ -1,7 +1,7 @@
 ### Taher Fattahi Tabalvandan
 ----
 
-I'm a dynamic person who is able to work with various technologies. I truly believe that these are essential tools for problem-solving, and that we should always choose the most suitable tool for each specific issue.<br/>
+I'm a dynamic person who is able to work with various technologies. I truly believe that these are essential tools for problem-solving, and we should always choose the most suitable tool for each specific issue.<br/>
 I love researching; <br/>Always looking for good opportunities to learn more.
 
 🎓 Software Engineer 
@@ -24,7 +24,7 @@ Robotics Projects:
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
   - [TD3 algorithm for autonomous robot navigation in simulated environments with obstacle avoidance](https://huggingface.co/spaces/TaherFattahi/TD3-robot-nav-irsim)
-  - [Implementation of obstacle avoidance for an Ackermann-steering robot using Twin Delayed Deep Deterministic Policy Gradient (TD3) reinforcement learning](https://github.com/taherfattahi/ackermann-rl-obstacle-td3)
+  - [TD3 Reinforcement Learning for Obstacle Avoidance in Ackermann-Steering Robots](https://github.com/taherfattahi/ackermann-rl-obstacle-td3)
 
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
