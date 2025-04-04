@@ -81,6 +81,7 @@ Web Development:
 ----
 
 ### My contents
+[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taher-fattahi/)
 [![](https://img.shields.io/badge/-huggingface-black?style=for-the-badge&logo=HuggingFace)](https://huggingface.co/TaherFattahi)
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@taherfattahi11)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/taherfattahi)
@@ -90,7 +91,6 @@ Web Development:
 
 ### Contact Me
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:taherfattahi11@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taher-fattahi/)
 
 [![Taher Fattahi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9681220&layout=compact&theme=dark)](https://stackoverflow.com/users/9681220/taher-fattahi-tabalvandan)
 
