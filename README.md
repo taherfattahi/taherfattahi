@@ -20,7 +20,7 @@ Robotics Projects:
   - [Model Predictive Path Integral (MPPI) control for navigating a simple 2D car model around multiple circular obstacles](https://github.com/taherfattahi/mppi-2d-car-navigation-with-obstacles)
   - [CARLA Autonomous Driving Simulation with RRT-Based Path Planning and PID Control](https://github.com/taherfattahi/carla-motion-planning-rrt-based)
   - [TARS Robot AI-Agent Data-over-Sound Commands and Bluetooth-Controlled Mecanum Chassis](https://github.com/taherfattahi/tars-robot)
-  - [Simulating multiple AGVs, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
+  - [Simulating multiple AGVs (Automated Guided Vehicles) with VDA 5050 protocol, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
     
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
