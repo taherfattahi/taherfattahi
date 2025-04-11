@@ -6,7 +6,7 @@ I love researching; <br/>Always looking for good opportunities to learn more.
 
 🎓 Software Engineer 
 🧠 AI Enthusiast 
-🤖 Robotic Researcher 
+🤖 Robotics Researcher 
 ✨ Dreamer
 
 ----
