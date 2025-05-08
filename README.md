@@ -51,7 +51,7 @@ Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
   - [Bash script to enable and disable Hi-Link wifi with curl](https://github.com/taherfattahi/Hi-Link-wifi-enable-disable-bash)
   - [Winpcap Installer](https://github.com/taherfattahi/winpcap-installer)
-  - [Iec61850 - goose publisher and subscriber function to send and receiving data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
+  - [Iec61850 - goose publisher and subscriber function to send and receive data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
 
 WebRTC Projects:
   - [Web-based screen sharing service for Vebko. This service uses WebRTC to share screens and sound](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
@@ -81,7 +81,7 @@ Web Development:
 
 ----
 
-### My contents
+### My contents:
 [![](https://img.shields.io/badge/-linkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taher-fattahi/)
 [![](https://img.shields.io/badge/-huggingface-black?style=for-the-badge&logo=HuggingFace)](https://huggingface.co/TaherFattahi)
 [![](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@taherfattahi11)
@@ -91,7 +91,7 @@ Web Development:
 
 ---
 
-### Contact Me
+### Contact Me:
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:taherfattahi11@gmail.com)
 
 [![Taher Fattahi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9681220&layout=compact&theme=dark)](https://stackoverflow.com/users/9681220/taher-fattahi-tabalvandan)
