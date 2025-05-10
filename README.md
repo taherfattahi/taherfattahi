@@ -54,14 +54,14 @@ Bash - Hardware Scripts:
   - [Iec61850 - goose publisher and subscriber function to send and receive data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
 
 WebRTC Projects:
-  - [Web-based screen sharing service for Vebko. This service uses WebRTC to share screens and sound](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
+  - [Web-based screen sharing service. This service uses WebRTC to share screens and sounds](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
   - [WebRTC peer-to-peer data, video, and audio calls](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
 
-Nodejs Projects: 
+Node.js Projects: 
   - [Wallet Example, Using Node.js, Express.js and MongoDB](https://github.com/taherfattahi/sample-wallet)
   
 C# - .NET Projects:
-  - [Stand-alone application to use Blazor inside Winforms with .NET5.0 and webview2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
+  - [Stand-alone application to use Blazor inside WinForms with .NET5.0 and webview2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
   - [GRPC service in .net framework](https://github.com/taherfattahi/GrpcNetframework)
 
 OpenCV Projects:
