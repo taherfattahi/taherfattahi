@@ -11,16 +11,6 @@ I love researching; <br/>Always looking for good opportunities to learn more.
 
 ----
 ### My open-source projects
-
-Robotics Projects: 
-  - [Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2](https://github.com/taherfattahi/isaac-sim-mobile-robot-rtab-map)
-  - [Nvidia Isaac Sim with MOLA to enable advanced 3D LiDAR odometry and mapping](https://github.com/taherfattahi/isaac-sim-3d-lidar-odometry-mapping)
-  - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
-  - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
-  - [Model Predictive Path Integral (MPPI) control for navigating a simple 2D car model around multiple circular obstacles](https://github.com/taherfattahi/mppi-2d-car-navigation-with-obstacles)
-  - [CARLA Autonomous Driving Simulation with RRT-Based Path Planning and PID Control](https://github.com/taherfattahi/carla-motion-planning-rrt-based)
-  - [TARS Robot AI-Agent Data-over-Sound Commands and Bluetooth-Controlled Mecanum Chassis](https://github.com/taherfattahi/tars-robot)
-  - [Simulating multiple AGVs with VDA 5050 protocol, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
     
 Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
@@ -42,6 +32,16 @@ ML and DL Projects:
   - [CNN model to detect Brain Tumors in patient's Brain MRI](https://github.com/taherfattahi/cnn-brain-tumor-detection)
   - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
 
+Robotics Projects: 
+  - [Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2](https://github.com/taherfattahi/isaac-sim-mobile-robot-rtab-map)
+  - [Nvidia Isaac Sim with MOLA to enable advanced 3D LiDAR odometry and mapping](https://github.com/taherfattahi/isaac-sim-3d-lidar-odometry-mapping)
+  - [Autonomous Mapping and Navigation Using SLAM Toolbox, Nav2, Gazebo, and Rviz Visualization](https://github.com/taherfattahi/ros2-slam-auto-navigation)
+  - [TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent](https://github.com/taherfattahi/turtlesim-astar-nvidia-llm)
+  - [Model Predictive Path Integral (MPPI) control for navigating a simple 2D car model around multiple circular obstacles](https://github.com/taherfattahi/mppi-2d-car-navigation-with-obstacles)
+  - [CARLA Autonomous Driving Simulation with RRT-Based Path Planning and PID Control](https://github.com/taherfattahi/carla-motion-planning-rrt-based)
+  - [TARS Robot AI-Agent Data-over-Sound Commands and Bluetooth-Controlled Mecanum Chassis](https://github.com/taherfattahi/tars-robot)
+  - [Simulating multiple AGVs with VDA 5050 protocol, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
+    
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [ORB-SLAM3: Manipulate virtual 3D cubes using a single camera and hand gestures](https://github.com/taherfattahi/orb-slam3-ar-cube-manipulator)
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
