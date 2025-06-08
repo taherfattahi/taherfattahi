@@ -1,7 +1,7 @@
 ### Taher Fattahi Tabalvandan
 ----
 
-I'm a dynamic person who is able to work with various technologies. I truly believe that these are essential tools for problem-solving, and we should always choose the most suitable tool for each specific issue.<br/>
+I'm a programmer who loves building new things and is passionate about Robotics and Artificial Intelligence.<br/>
 I love researching; <br/>Always looking for good opportunities to learn more.
 
 🎓 Software Engineer 
