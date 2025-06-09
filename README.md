@@ -47,6 +47,10 @@ Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
   - [Remote support powered by augmented reality and live video communication](https://github.com/taherfattahi/VebkoArRemoteAssistance)
 
+C# - .NET Projects:
+  - [Blazor server-side standalone application within a WinForms app, utilizing .NET5.0 and Microsoft Edge WebView2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
+  - [GRPC service in .NET Framework](https://github.com/taherfattahi/GrpcNetframework)
+
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
   - [Bash script to enable and disable Hi-Link wifi with curl](https://github.com/taherfattahi/Hi-Link-wifi-enable-disable-bash)
@@ -60,10 +64,6 @@ WebRTC Projects:
 Node.js Projects: 
   - [Wallet Example, Using Node.js, Express.js and MongoDB](https://github.com/taherfattahi/sample-wallet)
   
-C# - .NET Projects:
-  - [Stand-alone application to use Blazor inside WinForms with .NET5.0 and webview2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
-  - [GRPC service in .net framework](https://github.com/taherfattahi/GrpcNetframework)
-
 OpenCV Projects:
   - [OpenCV(3.3.1) video streaming over TCP and UDP](https://github.com/taherfattahi/opencv-video-streaming)
   - [Live video streaming over network with OpenCV and ImageZMQ](https://github.com/taherfattahi/video-streaming-opencv-ImageZMQ)
