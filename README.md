@@ -11,26 +11,6 @@ I love researching; <br/>Always looking for good opportunities to learn more.
 
 ----
 ### My open-source projects
-    
-Reinforcement Learning (RL):
-  - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
-  - [TD3 algorithm for autonomous robot navigation in simulated environments with obstacle avoidance](https://huggingface.co/spaces/TaherFattahi/TD3-robot-nav-irsim)
-  - [Obstacle Avoidance in Ackermann-Steering Robots with TD3 algorithm](https://github.com/taherfattahi/ackermann-rl-obstacle-td3)
-
-LLM Projects:
-  - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
-  - [Two approaches to generating optimized embeddings in the Retrieval-Augmented Generation (RAG) Pattern](https://github.com/taherfattahi/embedding-optimizer)
-  - [Enhancing Recommendation Systems with Large Language Models (RAG - LangChain - OpenAI)](https://github.com/taherfattahi/recommendation-systems-by-llms)
-  - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
-  - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities](https://github.com/bhaskatripathi/pdfGPT)
-  - [MailTrap Agent with LangChain](https://github.com/taherfattahi/mailtrap-agent)
-  - [LangGraph Conversational AI assistant for Good Health Clinic](https://github.com/taherfattahi/langgraph-medical-ai-assistant)
-    
-ML and DL Projects:
-  - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
-  - [DNN AMR relay differential curve](https://github.com/taherfattahi/dnn-amr-reley-differential-curve)
-  - [CNN model to detect Brain Tumors in patient's Brain MRI](https://github.com/taherfattahi/cnn-brain-tumor-detection)
-  - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
 
 Robotics Projects: 
   - [Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2](https://github.com/taherfattahi/isaac-sim-mobile-robot-rtab-map)
@@ -41,6 +21,26 @@ Robotics Projects:
   - [CARLA Autonomous Driving Simulation with RRT-Based Path Planning and PID Control](https://github.com/taherfattahi/carla-motion-planning-rrt-based)
   - [TARS Robot AI-Agent Data-over-Sound Commands and Bluetooth-Controlled Mecanum Chassis](https://github.com/taherfattahi/tars-robot)
   - [Simulating multiple AGVs with VDA 5050 protocol, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
+
+LLM Projects:
+  - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
+  - [Two approaches to generating optimized embeddings in the Retrieval-Augmented Generation (RAG) Pattern](https://github.com/taherfattahi/embedding-optimizer)
+  - [Enhancing Recommendation Systems with Large Language Models (RAG - LangChain - OpenAI)](https://github.com/taherfattahi/recommendation-systems-by-llms)
+  - [Chat with any PDF, Ask questions, extract information, and summarize documents with AI](https://github.com/Anil-matcha/ChatPDF)
+  - [PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities](https://github.com/bhaskatripathi/pdfGPT)
+  - [MailTrap Agent with LangChain](https://github.com/taherfattahi/mailtrap-agent)
+  - [LangGraph Conversational AI assistant for Good Health Clinic](https://github.com/taherfattahi/langgraph-medical-ai-assistant)
+    
+Reinforcement Learning (RL):
+  - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
+  - [TD3 algorithm for autonomous robot navigation in simulated environments with obstacle avoidance](https://huggingface.co/spaces/TaherFattahi/TD3-robot-nav-irsim)
+  - [Obstacle Avoidance in Ackermann-Steering Robots with TD3 algorithm](https://github.com/taherfattahi/ackermann-rl-obstacle-td3)
+    
+ML and DL Projects:
+  - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
+  - [DNN AMR relay differential curve](https://github.com/taherfattahi/dnn-amr-reley-differential-curve)
+  - [CNN model to detect Brain Tumors in patient's Brain MRI](https://github.com/taherfattahi/cnn-brain-tumor-detection)
+  - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
     
 Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [ORB-SLAM3: Manipulate virtual 3D cubes using a single camera and hand gestures](https://github.com/taherfattahi/orb-slam3-ar-cube-manipulator)
