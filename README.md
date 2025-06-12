@@ -50,6 +50,7 @@ Augmented Reality (AR) - Virtual Reality (VR) Projects:
 C# - .NET Projects:
   - [Blazor server-side standalone application within a WinForms app, utilizing .NET5.0 and Microsoft Edge WebView2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
   - [GRPC service in .NET Framework](https://github.com/taherfattahi/GrpcNetframework)
+  - [ESP32 and an MPU6050 sensor to create a wireless motion controller for a 2D dinosaur game](https://github.com/taherfattahi/esp32-mpu6050-dino-game)
 
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
