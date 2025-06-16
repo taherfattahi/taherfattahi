@@ -70,7 +70,7 @@ OpenCV Projects:
   - [Live video streaming over network with OpenCV and ImageZMQ](https://github.com/taherfattahi/video-streaming-opencv-ImageZMQ)
 
 Rust Projects:
-  - [Telegram bot to get personal salary with crawler vebko.ir website](https://github.com/taherfattahi/vebko-bot-crawler-salary)
+  - [A simple Telegram bot that retrieves your personal salary information by crawling the vebko.org website](https://github.com/taherfattahi/vebko-bot-crawler-salary)
   - [Port sniffer tool with Iced (A cross-platform GUI library for Rust)](https://github.com/taherfattahi/port-sniffer-gui)
 
 Dart Scripts:
