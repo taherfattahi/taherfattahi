@@ -53,6 +53,9 @@ C# - .NET Projects:
   - [ESP32 and an MPU6050 sensor to create a wireless motion controller for a 2D dinosaur game](https://github.com/taherfattahi/esp32-mpu6050-dino-game)
   - [Classic 2D space shooter game with user input handled from a custom ESP32-based joystick controller via TCP](https://github.com/taherfattahi/esp32-joystick-space-shooter)
 
+IoT Projects:
+  - [A tilt-controlled racing game for the ESP32, featuring stable motion controls via a complementary filter.(ESP32-MPU6050-SSD1306 OLED)](https://github.com/taherfattahi/esp32-gyro-racer)
+
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
   - [Bash script to enable and disable Hi-Link wifi with curl](https://github.com/taherfattahi/Hi-Link-wifi-enable-disable-bash)
