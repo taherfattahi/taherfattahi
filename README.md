@@ -67,7 +67,7 @@ WebRTC Projects:
   - [WebRTC peer-to-peer data, video, and audio calls](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
 
 Node.js Projects: 
-  - [Wallet Example, Using Node.js, Express.js and MongoDB](https://github.com/taherfattahi/sample-wallet)
+  - [Simple digital wallet powered by Node.js, Express, and MongoDB](https://github.com/taherfattahi/sample-wallet)
   
 OpenCV Projects:
   - [OpenCV(3.3.1) video streaming over TCP and UDP](https://github.com/taherfattahi/opencv-video-streaming)
