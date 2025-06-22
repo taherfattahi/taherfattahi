@@ -55,7 +55,7 @@ C# - .NET Projects:
 
 IoT Projects:
   - [A tilt-controlled racing game for the ESP32, featuring stable motion controls via a complementary filter(ESP32-MPU6050-SSD1306 OLED)](https://github.com/taherfattahi/esp32-gyro-racer)
-  - [A tilt-controlled maze game powered by an ESP32 microcontroller and an MPU6050 motion sensor](https://github.com/taherfattahi/esp32-maze-game)
+  - [A maze game powered by an ESP32 microcontroller and an MPU6050 motion sensor](https://github.com/taherfattahi/esp32-maze-game)
 
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
