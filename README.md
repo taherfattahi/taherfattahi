@@ -64,7 +64,7 @@ Bash - Hardware Scripts:
   - [Iec61850 - goose publisher and subscriber function to send and receive data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
 
 WebRTC Projects:
-  - [Web-based screen sharing service. This service uses WebRTC to share screens and sounds](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
+  - [Web-based screen sharing service. WebRTC to share screens and sounds](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
   - [WebRTC peer-to-peer data, video, and audio calls](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
 
 Node.js Projects: 
