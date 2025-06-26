@@ -60,7 +60,7 @@ IoT Projects:
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
   - [Bash script to enable and disable Hi-Link wifi with curl](https://github.com/taherfattahi/Hi-Link-wifi-enable-disable-bash)
-  - [Winpcap Installer](https://github.com/taherfattahi/winpcap-installer)
+  - [Winpcap Installer (silent installer - without running WinPcap.exe installation)](https://github.com/taherfattahi/winpcap-installer)
   - [Iec61850 - goose publisher and subscriber function to send and receive data from Omicron IEDScout software](https://github.com/taherfattahi/Iec61850ToIEDScout)
 
 WebRTC Projects:
