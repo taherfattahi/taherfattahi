@@ -49,7 +49,7 @@ Augmented Reality (AR) - Virtual Reality (VR) Projects:
 
 C# - .NET Projects:
   - [Blazor server-side standalone application within a WinForms app, utilizing .NET5.0 and Microsoft Edge WebView2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
-  - [GRPC service in .NET Framework](https://github.com/taherfattahi/GrpcNetframework)
+  - [Using gRPC Services in .NET Framework](https://github.com/taherfattahi/GrpcNetframework)
   - [ESP32 and an MPU6050 sensor to create a wireless motion controller for a 2D dinosaur game](https://github.com/taherfattahi/esp32-mpu6050-dino-game)
   - [Classic 2D space shooter game with user input handled from a custom ESP32-based joystick controller via TCP](https://github.com/taherfattahi/esp32-joystick-space-shooter)
 
