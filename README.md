@@ -103,5 +103,3 @@ Web Development:
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:taherfattahi11@gmail.com)
 
 [![Taher Fattahi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9681220&layout=compact&theme=dark)](https://stackoverflow.com/users/9681220/taher-fattahi-tabalvandan)
-
-![Taher Fattahi's github stats](https://github-readme-stats.vercel.app/api?username=taherfattahi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
