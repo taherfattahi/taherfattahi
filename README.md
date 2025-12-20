@@ -21,6 +21,7 @@ Robotics Projects:
   - [CARLA Autonomous Driving Simulation with RRT-Based Path Planning and PID Control](https://github.com/taherfattahi/carla-motion-planning-rrt-based)
   - [TARS Robot AI-Agent Data-over-Sound Commands and Bluetooth-Controlled Mecanum Chassis](https://github.com/taherfattahi/tars-robot)
   - [Simulating multiple AGVs with VDA 5050 protocol, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
+  - [Vision-Language-Action Diffusion Policy for Meta-World](https://github.com/taherfattahi/metaworld-vla-diffusion-policy)
 
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
