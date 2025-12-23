@@ -36,6 +36,7 @@ Reinforcement Learning (RL):
   - [Proximal Policy Optimization (PPO) algorithm using PyTorch to train an agent for a rocket landing task](https://github.com/taherfattahi/ppo-rocket-landing)
   - [TD3 algorithm for autonomous robot navigation in simulated environments with obstacle avoidance](https://huggingface.co/spaces/TaherFattahi/TD3-robot-nav-irsim)
   - [Obstacle Avoidance in Ackermann-Steering Robots with TD3 algorithm](https://github.com/taherfattahi/ackermann-rl-obstacle-td3)
+  - [Multi-agent PPO (MAPPO) in a 2-agent GridWorld with centralized critic, parameter sharing, and real-time episode visualization](https://github.com/taherfattahi/mini-mappo)
     
 ML and DL Projects:
   - [DNN distance line protection zone](https://github.com/taherfattahi/dnn-distance-line-protection-zone)
