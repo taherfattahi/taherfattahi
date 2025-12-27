@@ -22,6 +22,7 @@ Robotics Projects:
   - [TARS Robot AI-Agent Data-over-Sound Commands and Bluetooth-Controlled Mecanum Chassis](https://github.com/taherfattahi/tars-robot)
   - [Simulating multiple AGVs with VDA 5050 protocol, sending them orders, and visualizing their movement and status via MQTT](https://github.com/taherfattahi/vda5050-robot-simulator)
   - [Vision-Language-Action Diffusion Policy for Meta-World](https://github.com/taherfattahi/metaworld-vla-diffusion-policy)
+  - [A lightweight Vision-Language-Action (VLA) baseline for MetaWorld robot-arm tasks using a pretrained CLIP-ViT vision transformer(openai/clip-vit-base-patch32)](https://github.com/taherfattahi/MetaWorld-VLA-openai-clip-vit)
 
 LLM Projects:
   - [Nvidia Human AI Lip sync](https://github.com/taherfattahi/nvidia-human-ai-lipsync)
