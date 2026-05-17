@@ -60,6 +60,7 @@ IoT Projects:
   - [A maze game powered by an ESP32 microcontroller and an MPU6050 motion sensor](https://github.com/taherfattahi/esp32-maze-game)
   - [UART communication between an STM32F401CCU6 microcontroller and an ESP32 development board(bare-metal, no HAL)](https://github.com/taherfattahi/STM32F401-ESP32-UART-Communication)
   - [FlappyDot: A minimal, no-HAL, bare-metal game for STM32F401CCU6 that draws to a 128×64 SSD1306 OLED over I²C](https://github.com/taherfattahi/FlappyDot-STM32F401-SSD1306)
+  - [STM32F407VET6 Tetris — MPU6050 + SSD1306 OLED](https://github.com/taherfattahi/STM32F407VET6-Tetris-MPU6050-SSD1306-OLED)
 
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
