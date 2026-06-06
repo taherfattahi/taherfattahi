@@ -43,17 +43,6 @@ ML and DL Projects:
   - [DNN AMR relay differential curve](https://github.com/taherfattahi/dnn-amr-reley-differential-curve)
   - [CNN model to detect Brain Tumors in patient's Brain MRI](https://github.com/taherfattahi/cnn-brain-tumor-detection)
   - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
-    
-Augmented Reality (AR) - Virtual Reality (VR) Projects:
-  - [ORB-SLAM3: Manipulate virtual 3D cubes using a single camera and hand gestures](https://github.com/taherfattahi/orb-slam3-ar-cube-manipulator)
-  - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
-  - [Remote support powered by augmented reality and live video communication](https://github.com/taherfattahi/VebkoArRemoteAssistance)
-
-C# - .NET Projects:
-  - [Blazor server-side standalone application within a WinForms app, utilizing .NET5.0 and Microsoft Edge WebView2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
-  - [Using gRPC Services in .NET Framework](https://github.com/taherfattahi/GrpcNetframework)
-  - [ESP32 and an MPU6050 sensor to create a wireless motion controller for a 2D dinosaur game](https://github.com/taherfattahi/esp32-mpu6050-dino-game)
-  - [Classic 2D space shooter game with user input handled from a custom ESP32-based joystick controller via TCP](https://github.com/taherfattahi/esp32-joystick-space-shooter)
 
 IoT Projects:
   - [A tilt-controlled racing game for the ESP32, featuring stable motion controls via a complementary filter(ESP32-MPU6050-SSD1306 OLED)](https://github.com/taherfattahi/esp32-gyro-racer)
@@ -61,6 +50,17 @@ IoT Projects:
   - [UART communication between an STM32F401CCU6 microcontroller and an ESP32 development board(bare-metal, no HAL)](https://github.com/taherfattahi/STM32F401-ESP32-UART-Communication)
   - [FlappyDot: A minimal, no-HAL, bare-metal game for STM32F401CCU6 that draws to a 128×64 SSD1306 OLED over I²C](https://github.com/taherfattahi/FlappyDot-STM32F401-SSD1306)
   - [STM32F407VET6 Tetris — MPU6050 + SSD1306 OLED](https://github.com/taherfattahi/STM32F407VET6-Tetris-MPU6050-SSD1306-OLED)
+
+C# - .NET Projects:
+  - [Blazor server-side standalone application within a WinForms app, utilizing .NET5.0 and Microsoft Edge WebView2](https://github.com/taherfattahi/BlazorWinformsStandAloneApplication)
+  - [Using gRPC Services in .NET Framework](https://github.com/taherfattahi/GrpcNetframework)
+  - [ESP32 and an MPU6050 sensor to create a wireless motion controller for a 2D dinosaur game](https://github.com/taherfattahi/esp32-mpu6050-dino-game)
+  - [Classic 2D space shooter game with user input handled from a custom ESP32-based joystick controller via TCP](https://github.com/taherfattahi/esp32-joystick-space-shooter)
+
+Augmented Reality (AR) - Virtual Reality (VR) Projects:
+  - [ORB-SLAM3: Manipulate virtual 3D cubes using a single camera and hand gestures](https://github.com/taherfattahi/orb-slam3-ar-cube-manipulator)
+  - [Augmented Reality Android application to show some specifics of Tester AMT105 device](https://github.com/taherfattahi/vebko-ar)
+  - [Remote support powered by augmented reality and live video communication](https://github.com/taherfattahi/VebkoArRemoteAssistance)
 
 Bash - Hardware Scripts:
   - [[Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv)
