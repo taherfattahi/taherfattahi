@@ -45,6 +45,7 @@ ML and DL Projects:
   - [Classical Classification Elderly Mortality Prediction](https://github.com/taherfattahi/elderly-mortality-prediction)
 
 IoT Projects:
+  - [A real-time PC system monitor running on a Black F407VE (STM32F407VET6) board with Zephyr RTOS](https://github.com/taherfattahi/STM32F407VE-PC-System-Monitor-Zephyr-MCUboot)
   - [A tilt-controlled racing game for the ESP32, featuring stable motion controls via a complementary filter(ESP32-MPU6050-SSD1306 OLED)](https://github.com/taherfattahi/esp32-gyro-racer)
   - [A maze game powered by an ESP32 microcontroller and an MPU6050 motion sensor](https://github.com/taherfattahi/esp32-maze-game)
   - [UART communication between an STM32F401CCU6 microcontroller and an ESP32 development board(bare-metal, no HAL)](https://github.com/taherfattahi/STM32F401-ESP32-UART-Communication)
