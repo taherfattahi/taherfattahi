@@ -72,9 +72,6 @@ Bash - Hardware Scripts:
 WebRTC Projects:
   - [Web-based screen sharing service. WebRTC to share screens and sounds](https://github.com/taherfattahi/WebRTC-Screen-Sharing)
   - [WebRTC peer-to-peer data, video, and audio calls](https://github.com/taherfattahi/SimpleWebRTC-Video-Chat)
-
-Node.js Projects: 
-  - [Simple digital wallet powered by Node.js, ExpressJs, and MongoDB](https://github.com/taherfattahi/sample-wallet)
   
 OpenCV Projects:
   - [OpenCV(3.3.1) video streaming over TCP and UDP](https://github.com/taherfattahi/opencv-video-streaming)
